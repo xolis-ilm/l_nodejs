@@ -1,22 +1,18 @@
 {
-  "name": "node",
+  "name": "ts-demo",
   "version": "1.0.0",
-  "description": "NodeJs starter lesson",
+  "description": "nodeJs",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "dev": "nodemon index.js"
   },
-  "keywords": [
-    "nodejs"
-  ],
-  "author": "Sherali Mamatqulov",
+  "author": "Sherali",
   "license": "ISC",
-  "dependencies": {
-    "bootstrap": "^5.2.3",
-    "jquery": "^3.6.3"
-  },
+  "keywords": [
+    "nodeJs"
+  ],
   "devDependencies": {
-    "nodemon": "^2.0.20"
-  }
+		"nodemon": "^2.0.20"
+	}
 }
